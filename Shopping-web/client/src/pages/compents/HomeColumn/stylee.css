@@ -1,0 +1,54 @@
+
+.ColumnDiv{
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    row-gap: 15px;
+    gap: 15px;
+    justify-content: space-between;
+    width: 100px;
+    height: auto;
+   
+ 
+}
+
+#container2{
+    border: 1px outset white;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    color: white;
+    border-radius: 20%;
+}
+#container2:hover{cursor: pointer;}
+
+#container3{
+    border: 1px outset white;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    color: white;
+    border-radius: 20%;
+}
+#container3:hover{cursor: pointer;}
+
+#container4{
+    border: 1px outset white;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    color: white;
+    border-radius: 20%;
+}
+#container4:hover{cursor: pointer;}
+
+#basket{font-size: 20px; font-family:'Courier New', Courier, monospace};
+
+#settings{font-size: 20px; font-family:'Courier New', Courier, monospace};
+
+#Products{font-size: 20px; font-family:'Courier New', Courier, monospace}
+
+a{
+    text-decoration: none;
+    color: white;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+.Main{
+   display: flex;
+   flex-direction: row;
+   padding-top: 30px;
+   
+}
+
+.Rowdiv{
+   display: flex;
+   flex-direction: row;
+   padding-top: 30px;
+   margin: auto;
+   padding-left: 10px;
+   padding-right: 10px;
+   
+   
+}

@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+
+.Maindiv{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    row-gap: 15px;
+    gap: 15px;
+    justify-content: center;
+}
+
+
+.container1{
+    border: 1px outset white;
+    height: 250px;
+    width: 250px;
+    border-radius: 20%;
+}   
+
+.container1{
+    text-align: center;
+}
+
+.ColumnDiv{
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+    row-gap: 15px;
+    gap: 15px;
+    justify-content: center;
+}
+
+.Columns{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.Rows{
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    gap: 20px;
+}
+
+.Btns{
+    color: black;
+    background-color:whitesmoke;
+    border: 3px solid white;
+    height: 30px;
+    width: 200px;
+    font-size: 23px;
+    padding-top: 4px 10px ;
+    border-radius: 10%;
+    margin: auto;
+}
+
+.Btns:hover{
+    cursor: pointer;
+}
